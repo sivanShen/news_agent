@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-08-11",
-    "summary": "[AI for science needs reasoning, not just data](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/)  儘管人工智慧已透過資料處理革新了眾多領域，但其在科學研究中的應用，需要從單純的資料分析轉向融入推理能力。前 Google 執行長及 Schmidt S"
-  },
-  {
     "date": "2026-08-12",
     "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 近期宣布推出 Rubin CPX，這是一款專為優化"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-08-20",
     "summary": "[The Download: AI’s self-improvement problem, and what’s driving the heat](https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/)  人工智"
+  },
+  {
+    "date": "2026-08-21",
+    "summary": "[The next big thing in hydrogen could be underground](https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/)  目前，全球正在積極尋找新的氫氣來源，而這種氣體（或至少是生成它的適當條件）可能就隱藏在地底深處。氫氣被廣泛視為一種重要的氣候解決方案，因"
   }
 ]
