@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-08-13",
-    "summary": "[The web’s newest weapon against AI scrapers is a font](https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/)  一種名為「ShieldFont」的新字體被開發出來，旨在成為網路對抗AI內容抓取的新武"
-  },
-  {
     "date": "2026-08-14",
     "summary": "[xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  全球首座千兆瓦資料中心「xAI Colos"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-08-22",
     "summary": "[Nvidia partners with data center developer Cloverleaf](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/)  Nvidia 持續將大量資金投入資料中心開發，這正呼應了AI資料中心為其帶來可觀營收的現況。隨著全球對生成"
+  },
+  {
+    "date": "2026-08-23",
+    "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 近期發表了 Rubin CPX，這是一款專門為大型"
   }
 ]
