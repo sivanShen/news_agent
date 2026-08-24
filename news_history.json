@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-08-14",
-    "summary": "[xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  全球首座千兆瓦資料中心「xAI Colos"
-  },
-  {
     "date": "2026-08-15",
     "summary": "[Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  人工智慧的發展核心是算力，誰掌握了算力，誰就能主導AI領域並從中獲益。美國科"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-08-23",
     "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 近期發表了 Rubin CPX，這是一款專門為大型"
+  },
+  {
+    "date": "2026-08-24",
+    "summary": "[When AI designs a drug, who gets the credit?](https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/)  人工智慧在藥物發現領域扮演的角色日益重要，進而引發智慧財產權歸屬的爭議。生技公司 Insilico Medic"
   }
 ]
