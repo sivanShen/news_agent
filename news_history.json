@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-08-16",
-    "summary": "[So much solar: Digging into the list of every US power plant that went online this year](https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-"
-  },
-  {
     "date": "2026-08-17",
     "summary": "[Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-for-7b/)  金融科技巨頭 Stripe 據報導將以超過 70 億美元的價格收購 "
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-08-25",
     "summary": "[Data centers become \"killer application\" for new power transformer tech](https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/)  隨著人工智慧的快速發展，數據中"
+  },
+  {
+    "date": "2026-08-26",
+    "summary": "[xAI 的 Colossus 2：全球首座十億瓦級資料中心](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI 在人工智慧基礎設施領域邁出了巨型一步，推出了其最新的 Colossus 2 資料中心，這標誌著全球首座達到十億瓦級規模的資料中心。此新設施的電力消耗遠超其前身 Col"
   }
 ]
