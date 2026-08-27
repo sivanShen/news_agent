@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-08-17",
-    "summary": "[Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-for-7b/)  金融科技巨頭 Stripe 據報導將以超過 70 億美元的價格收購 "
-  },
-  {
     "date": "2026-08-18",
     "summary": "[Former SpaceX engineers are building a robotic factory for making steel parts](https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/)  一群來自"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-08-26",
     "summary": "[xAI 的 Colossus 2：全球首座十億瓦級資料中心](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI 在人工智慧基礎設施領域邁出了巨型一步，推出了其最新的 Colossus 2 資料中心，這標誌著全球首座達到十億瓦級規模的資料中心。此新設施的電力消耗遠超其前身 Col"
+  },
+  {
+    "date": "2026-08-27",
+    "summary": "[華為昇騰生產加速：晶圓儲備、台積電持續生產與 HBM 瓶頸](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  　　人工智慧運算能力已成為決定未來科技發展的關鍵命脈。誰掌握了強大的運算資源，誰就能在不斷成長的 AI 應用領域中佔據主導地位，並從中獲益。在沒有足夠運算力的情況下，企業將難以在全球 AI 競爭中立"
   }
 ]
