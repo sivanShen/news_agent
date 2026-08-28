@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-08-18",
-    "summary": "[Former SpaceX engineers are building a robotic factory for making steel parts](https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/)  一群來自"
-  },
-  {
     "date": "2026-08-19",
     "summary": "[Etched’s valuation doubles to $21B in a month](https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/)  人工智慧晶片新創公司 Etched 在短短一個月內，其估值已翻倍至 210 億美元。這項顯著的增長歸因於該公司首次出貨的 AI 叢集系統，在實"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-08-27",
     "summary": "[華為昇騰生產加速：晶圓儲備、台積電持續生產與 HBM 瓶頸](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  　　人工智慧運算能力已成為決定未來科技發展的關鍵命脈。誰掌握了強大的運算資源，誰就能在不斷成長的 AI 應用領域中佔據主導地位，並從中獲益。在沒有足夠運算力的情況下，企業將難以在全球 AI 競爭中立"
+  },
+  {
+    "date": "2026-08-28",
+    "summary": "[Anthropic 推出新硬體標準，賦能 AI 代理控制實體世界](https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/)  人工智慧新創公司 Anthropic 近日推出了一項全新的硬體標準，旨在讓 AI 代理能夠直接與物理世界"
   }
 ]
