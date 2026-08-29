@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-08-19",
-    "summary": "[Etched’s valuation doubles to $21B in a month](https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/)  人工智慧晶片新創公司 Etched 在短短一個月內，其估值已翻倍至 210 億美元。這項顯著的增長歸因於該公司首次出貨的 AI 叢集系統，在實"
-  },
-  {
     "date": "2026-08-20",
     "summary": "[The Download: AI’s self-improvement problem, and what’s driving the heat](https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/)  人工智"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-08-28",
     "summary": "[Anthropic 推出新硬體標準，賦能 AI 代理控制實體世界](https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/)  人工智慧新創公司 Anthropic 近日推出了一項全新的硬體標準，旨在讓 AI 代理能夠直接與物理世界"
+  },
+  {
+    "date": "2026-08-29",
+    "summary": "[How to sign up for a virtual power plant—and decide whether you should](https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/)  虛"
   }
 ]
