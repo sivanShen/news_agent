@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-08-20",
-    "summary": "[The Download: AI’s self-improvement problem, and what’s driving the heat](https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/)  人工智"
-  },
-  {
     "date": "2026-08-21",
     "summary": "[The next big thing in hydrogen could be underground](https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/)  目前，全球正在積極尋找新的氫氣來源，而這種氣體（或至少是生成它的適當條件）可能就隱藏在地底深處。氫氣被廣泛視為一種重要的氣候解決方案，因"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-08-29",
     "summary": "[How to sign up for a virtual power plant—and decide whether you should](https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/)  虛"
+  },
+  {
+    "date": "2026-08-30",
+    "summary": "[Nvidia 的 AI 優勢正在超越 GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)  Nvidia 在人工智慧領域的領先地位正從單純的 GPU 硬體擴展到更廣泛的數據中心系統層面。隨著新一代數據中心的發展，提升效率的關鍵已不再僅限於增加處理器週期，而是轉向更智慧的流量控"
   }
 ]
