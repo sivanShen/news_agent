@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-08-22",
-    "summary": "[Nvidia partners with data center developer Cloverleaf](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/)  Nvidia 持續將大量資金投入資料中心開發，這正呼應了AI資料中心為其帶來可觀營收的現況。隨著全球對生成"
-  },
-  {
     "date": "2026-08-23",
     "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 近期發表了 Rubin CPX，這是一款專門為大型"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-08-31",
     "summary": "[Inside Meta’s push to put robots to work in data centers](https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/)  Meta 正積極探索在其資料中心部署機器人，以執行傳統上由技術人員負責的各項任務。隨著人工智慧"
+  },
+  {
+    "date": "2026-09-02",
+    "summary": "[How AI plotted an interstellar journey to Alpha Centauri](https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/)  非營利組織 Fermi Explorer Mission 近日宣布，計畫在 2029 年底前發"
   }
 ]
