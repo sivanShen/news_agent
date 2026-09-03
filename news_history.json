@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-08-23",
-    "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 近期發表了 Rubin CPX，這是一款專門為大型"
-  },
-  {
     "date": "2026-08-24",
     "summary": "[When AI designs a drug, who gets the credit?](https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/)  人工智慧在藥物發現領域扮演的角色日益重要，進而引發智慧財產權歸屬的爭議。生技公司 Insilico Medic"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-02",
     "summary": "[How AI plotted an interstellar journey to Alpha Centauri](https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/)  非營利組織 Fermi Explorer Mission 近日宣布，計畫在 2029 年底前發"
+  },
+  {
+    "date": "2026-09-03",
+    "summary": "[Facilitating AI integration with simplicity at scale](https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/)  企業在擴展規模的同時，支援營運的技術可能迅速從資產變成負擔。散亂的系統、針"
   }
 ]
