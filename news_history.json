@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-08-27",
-    "summary": "[華為昇騰生產加速：晶圓儲備、台積電持續生產與 HBM 瓶頸](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  　　人工智慧運算能力已成為決定未來科技發展的關鍵命脈。誰掌握了強大的運算資源，誰就能在不斷成長的 AI 應用領域中佔據主導地位，並從中獲益。在沒有足夠運算力的情況下，企業將難以在全球 AI 競爭中立"
-  },
-  {
     "date": "2026-08-28",
     "summary": "[Anthropic 推出新硬體標準，賦能 AI 代理控制實體世界](https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/)  人工智慧新創公司 Anthropic 近日推出了一項全新的硬體標準，旨在讓 AI 代理能夠直接與物理世界"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-06",
     "summary": "[After 8 years, Europe's BepiColombo mission is on final approach to Mercury](https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/)  經過八年的漫長"
+  },
+  {
+    "date": "2026-09-07",
+    "summary": "[xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI 的 Colossus 專案在人工智"
   }
 ]
