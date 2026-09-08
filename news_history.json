@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-08-28",
-    "summary": "[Anthropic 推出新硬體標準，賦能 AI 代理控制實體世界](https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/)  人工智慧新創公司 Anthropic 近日推出了一項全新的硬體標準，旨在讓 AI 代理能夠直接與物理世界"
-  },
-  {
     "date": "2026-08-29",
     "summary": "[How to sign up for a virtual power plant—and decide whether you should](https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/)  虛"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-07",
     "summary": "[xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI 的 Colossus 專案在人工智"
+  },
+  {
+    "date": "2026-09-08",
+    "summary": "[Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  人工智慧的蓬勃發展，使得運算能力成為推動創新的核心命脈。當前，全球科技巨頭皆"
   }
 ]
