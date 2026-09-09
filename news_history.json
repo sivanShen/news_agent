@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-08-29",
-    "summary": "[How to sign up for a virtual power plant—and decide whether you should](https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/)  虛"
-  },
-  {
     "date": "2026-08-30",
     "summary": "[Nvidia 的 AI 優勢正在超越 GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)  Nvidia 在人工智慧領域的領先地位正從單純的 GPU 硬體擴展到更廣泛的數據中心系統層面。隨著新一代數據中心的發展，提升效率的關鍵已不再僅限於增加處理器週期，而是轉向更智慧的流量控"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-08",
     "summary": "[Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  人工智慧的蓬勃發展，使得運算能力成為推動創新的核心命脈。當前，全球科技巨頭皆"
+  },
+  {
+    "date": "2026-09-09",
+    "summary": "[This founder is teaching chips how to recycle (their energy)](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/)  在電腦晶片的漫長發展史中，工程師們普遍將計算過程中產生的廢熱視為不可避免的成"
   }
 ]
