@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-03",
-    "summary": "[Facilitating AI integration with simplicity at scale](https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/)  企業在擴展規模的同時，支援營運的技術可能迅速從資產變成負擔。散亂的系統、針"
-  },
-  {
     "date": "2026-09-04",
     "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 近日宣布推出其最新的 Rubin CPX 專用加速"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-12",
     "summary": "[OpenAI AI Swarm Hacked Software Service Months Before Hugging Face Incident](https://www.theinformation.com/briefings/openai-ai-swarm-hacked-software-service-months-hugging-face-incident)  研究人員近期指出，O"
+  },
+  {
+    "date": "2026-09-13",
+    "summary": "[阿特曼與馬斯克支持阿莫迪呼籲AI公司放慢發展](https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety)  Anthropic 執行長 Dario Amodei 近日公開呼籲領先的 AI 公司應減緩先進 AI 的發展速度，此舉獲得 OpenAI 執行長 Sam Altman 及 Sp"
   }
 ]
