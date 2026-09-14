@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-04",
-    "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 近日宣布推出其最新的 Rubin CPX 專用加速"
-  },
-  {
     "date": "2026-09-05",
     "summary": "[Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-AI-era/)  隨著人工智慧推理時代的全面到來，企業對其底層基礎設施提出了前所未有的嚴苛要求。AI應用，無論是即時分析"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-13",
     "summary": "[阿特曼與馬斯克支持阿莫迪呼籲AI公司放慢發展](https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety)  Anthropic 執行長 Dario Amodei 近日公開呼籲領先的 AI 公司應減緩先進 AI 的發展速度，此舉獲得 OpenAI 執行長 Sam Altman 及 Sp"
+  },
+  {
+    "date": "2026-09-14",
+    "summary": "[I spent $4,000 on a robot dog from China](https://arstechnica.com/gadgets/2026/09/12/i-spent-4000-on-a-robot-dog-from-china/)  中國機器人公司 Unitree 正以其高性價比的四足機器人，逐漸改變全球機器人產業格局。近期一篇報導深入探討了作者購買一台僅需 4,000 美元"
   }
 ]
