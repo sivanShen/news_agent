@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-06",
-    "summary": "[After 8 years, Europe's BepiColombo mission is on final approach to Mercury](https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/)  經過八年的漫長"
-  },
-  {
     "date": "2026-09-07",
     "summary": "[xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI 的 Colossus 專案在人工智"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-15",
     "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 最近公布了 Rubin CPX 加速器，這是一款專"
+  },
+  {
+    "date": "2026-09-16",
+    "summary": "[AI資料中心熱潮與飽受工業創傷的城市產生衝突](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/)  隨著人工智慧產業的爆炸性成長，其對龐大運算能力的需求也隨之急劇增加，導致全球各地AI資料中心如雨後春筍般興建。然而，這股資料中心建"
   }
 ]
