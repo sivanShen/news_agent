@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-08",
-    "summary": "[Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  人工智慧的蓬勃發展，使得運算能力成為推動創新的核心命脈。當前，全球科技巨頭皆"
-  },
-  {
     "date": "2026-09-09",
     "summary": "[This founder is teaching chips how to recycle (their energy)](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/)  在電腦晶片的漫長發展史中，工程師們普遍將計算過程中產生的廢熱視為不可避免的成"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-17",
     "summary": "[為AI奠定材料基礎](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/)  人工智慧產業的蓬勃發展，正使其基礎建設面臨嚴峻的材料挑戰。隨著AI將運算推向全新領域，其背後基礎設施所需的材料，其重要性已不亞於運行其上的演算法本身。  半導體與資料中心在性能、熱管理"
+  },
+  {
+    "date": "2026-09-18",
+    "summary": "[xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI正著手打造全球首座功耗達到吉瓦級的資"
   }
 ]
