@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-09",
-    "summary": "[This founder is teaching chips how to recycle (their energy)](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/)  在電腦晶片的漫長發展史中，工程師們普遍將計算過程中產生的廢熱視為不可避免的成"
-  },
-  {
     "date": "2026-09-10",
     "summary": "[理解便攜式電源的熱限制](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/)  當今智慧型手機的充電速度在最初十分鐘內往往令人印象深刻，但隨後的充電過程卻會顯著放緩。這並非設備故障，而是內置保護機制使然。隨著充電過程中溫度的升高，智慧型手"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-18",
     "summary": "[xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI正著手打造全球首座功耗達到吉瓦級的資"
+  },
+  {
+    "date": "2026-09-19",
+    "summary": "[Huawei Ascend 生產加速：晶圓儲備、台積電持續生產與 HBM 瓶頸](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  人工智慧運算能力的競爭日益激烈，而高效能晶片的生產成為各方科技巨擘的關鍵戰場。華為的昇騰系列人工智慧晶片正經歷顯著的生產爬坡，以滿足市場對其運算硬體不斷增長的需求。這背後涉及複雜"
   }
 ]
