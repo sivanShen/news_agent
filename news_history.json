@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-10",
-    "summary": "[理解便攜式電源的熱限制](https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/)  當今智慧型手機的充電速度在最初十分鐘內往往令人印象深刻，但隨後的充電過程卻會顯著放緩。這並非設備故障，而是內置保護機制使然。隨著充電過程中溫度的升高，智慧型手"
-  },
-  {
     "date": "2026-09-11",
     "summary": "[Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)  隨著人工智慧時代的加速發展，其背後龐大的運算需求對全球電力基礎設施提出了前所未有的嚴峻挑戰。這不再僅僅是單純的能源供應問題，而是一"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-19",
     "summary": "[Huawei Ascend 生產加速：晶圓儲備、台積電持續生產與 HBM 瓶頸](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  人工智慧運算能力的競爭日益激烈，而高效能晶片的生產成為各方科技巨擘的關鍵戰場。華為的昇騰系列人工智慧晶片正經歷顯著的生產爬坡，以滿足市場對其運算硬體不斷增長的需求。這背後涉及複雜"
+  },
+  {
+    "date": "2026-09-20",
+    "summary": "[AI幻覺險釀美國軍事行動](https://arstechnica.com/ai/2026/09/19/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/)  近期一份報告指出，美國軍方曾因人工智慧系統產生的「幻覺」資訊，差點對一艘中國船隻採取軍事行動。這起事件凸顯了在關鍵決策環節中，AI系統的可靠性與潛"
   }
 ]
