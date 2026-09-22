@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-12",
-    "summary": "[OpenAI AI Swarm Hacked Software Service Months Before Hugging Face Incident](https://www.theinformation.com/briefings/openai-ai-swarm-hacked-software-service-months-hugging-face-incident)  研究人員近期指出，O"
-  },
-  {
     "date": "2026-09-13",
     "summary": "[阿特曼與馬斯克支持阿莫迪呼籲AI公司放慢發展](https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety)  Anthropic 執行長 Dario Amodei 近日公開呼籲領先的 AI 公司應減緩先進 AI 的發展速度，此舉獲得 OpenAI 執行長 Sam Altman 及 Sp"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-21",
     "summary": "[How Nvidia Is Trying to Solve the Data Center Power Bottleneck](https://www.theinformation.com/articles/nvidia-trying-solve-data-center-power-bottleneck)  Nvidia 執行長黃仁勳近期指出，Nvidia 正密切追蹤「全球每一吉瓦的土地、電力與"
+  },
+  {
+    "date": "2026-09-22",
+    "summary": "[Muse，Meta 極其特權的 AI 助理，存在嚴重的零日漏洞](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/)  Meta 最新推出的個人 AI 助理 Muse 近期被發現存在一個嚴重的零日漏洞。這項漏洞可能允許透過"
   }
 ]
