@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-13",
-    "summary": "[阿特曼與馬斯克支持阿莫迪呼籲AI公司放慢發展](https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety)  Anthropic 執行長 Dario Amodei 近日公開呼籲領先的 AI 公司應減緩先進 AI 的發展速度，此舉獲得 OpenAI 執行長 Sam Altman 及 Sp"
-  },
-  {
     "date": "2026-09-14",
     "summary": "[I spent $4,000 on a robot dog from China](https://arstechnica.com/gadgets/2026/09/12/i-spent-4000-on-a-robot-dog-from-china/)  中國機器人公司 Unitree 正以其高性價比的四足機器人，逐漸改變全球機器人產業格局。近期一篇報導深入探討了作者購買一台僅需 4,000 美元"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-22",
     "summary": "[Muse，Meta 極其特權的 AI 助理，存在嚴重的零日漏洞](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/)  Meta 最新推出的個人 AI 助理 Muse 近期被發現存在一個嚴重的零日漏洞。這項漏洞可能允許透過"
+  },
+  {
+    "date": "2026-09-23",
+    "summary": "[Anthropic 洽談深化對資料中心的掌控](https://www.theinformation.com/articles/anthropic-talks-cement-control-data-centers)  人工智慧公司 Anthropic 正積極洽談，尋求租賃高達 1 吉瓦的運算容量，此舉旨在大幅降低對雲端服務供應商的依賴。根據消息人士透露，開發 Claude 的 Anthropi"
   }
 ]
