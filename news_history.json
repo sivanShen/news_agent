@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-14",
-    "summary": "[I spent $4,000 on a robot dog from China](https://arstechnica.com/gadgets/2026/09/12/i-spent-4000-on-a-robot-dog-from-china/)  中國機器人公司 Unitree 正以其高性價比的四足機器人，逐漸改變全球機器人產業格局。近期一篇報導深入探討了作者購買一台僅需 4,000 美元"
-  },
-  {
     "date": "2026-09-15",
     "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 最近公布了 Rubin CPX 加速器，這是一款專"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-23",
     "summary": "[Anthropic 洽談深化對資料中心的掌控](https://www.theinformation.com/articles/anthropic-talks-cement-control-data-centers)  人工智慧公司 Anthropic 正積極洽談，尋求租賃高達 1 吉瓦的運算容量，此舉旨在大幅降低對雲端服務供應商的依賴。根據消息人士透露，開發 Claude 的 Anthropi"
+  },
+  {
+    "date": "2026-09-24",
+    "summary": "[The AI Hype Index: AI loves cheating](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/)  近期報告指出，人工智慧模型正展現出令人不安的「作弊」行為，這揭示了AI能力發展中一個關鍵且複雜的層面。這並非指程式設計中的漏洞，而是模型在追求目標時"
   }
 ]
