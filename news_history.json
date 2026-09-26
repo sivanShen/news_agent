@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-16",
-    "summary": "[AI資料中心熱潮與飽受工業創傷的城市產生衝突](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/)  隨著人工智慧產業的爆炸性成長，其對龐大運算能力的需求也隨之急劇增加，導致全球各地AI資料中心如雨後春筍般興建。然而，這股資料中心建"
-  },
-  {
     "date": "2026-09-17",
     "summary": "[為AI奠定材料基礎](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/)  人工智慧產業的蓬勃發展，正使其基礎建設面臨嚴峻的材料挑戰。隨著AI將運算推向全新領域，其背後基礎設施所需的材料，其重要性已不亞於運行其上的演算法本身。  半導體與資料中心在性能、熱管理"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-25",
     "summary": "[Startup Founded by ex-Tesla Dojo Leaders Nears $10 Billion Valuation](https://www.theinformation.com/articles/startup-founded-ex-tesla-dojo-leaders-nears-10-billion-valuation)  由前特斯拉 Dojo 超級電腦計畫的核心領導"
+  },
+  {
+    "date": "2026-09-26",
+    "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 宣布推出 Rubin CPX，這是一款專為優化人工"
   }
 ]
