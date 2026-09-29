@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-19",
-    "summary": "[Huawei Ascend 生產加速：晶圓儲備、台積電持續生產與 HBM 瓶頸](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  人工智慧運算能力的競爭日益激烈，而高效能晶片的生產成為各方科技巨擘的關鍵戰場。華為的昇騰系列人工智慧晶片正經歷顯著的生產爬坡，以滿足市場對其運算硬體不斷增長的需求。這背後涉及複雜"
-  },
-  {
     "date": "2026-09-20",
     "summary": "[AI幻覺險釀美國軍事行動](https://arstechnica.com/ai/2026/09/19/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/)  近期一份報告指出，美國軍方曾因人工智慧系統產生的「幻覺」資訊，差點對一艘中國船隻採取軍事行動。這起事件凸顯了在關鍵決策環節中，AI系統的可靠性與潛"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-09-28",
     "summary": "[China Weighs Allowing Purchases of New Nvidia Chips by ByteDance, Alibaba](https://www.theinformation.com/articles/china-weighs-allowing-purchases-new-nvidia-chips-bytedance-alibaba)  中國政府已釋出訊號，正考慮允許"
+  },
+  {
+    "date": "2026-09-29",
+    "summary": "[xAI 的 Colossus 2 – 全球首座吉瓦級資料中心、獨特強化學習方法論及資金募集](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI 正在推進其 Colossus 計畫，目標是打造全球首座達到吉瓦級（1吉瓦）運算容量的資料中心，命名為 Colossus 2。此計畫預示"
   }
 ]
