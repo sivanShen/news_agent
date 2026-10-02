@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-22",
-    "summary": "[Muse，Meta 極其特權的 AI 助理，存在嚴重的零日漏洞](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/)  Meta 最新推出的個人 AI 助理 Muse 近期被發現存在一個嚴重的零日漏洞。這項漏洞可能允許透過"
-  },
-  {
     "date": "2026-09-23",
     "summary": "[Anthropic 洽談深化對資料中心的掌控](https://www.theinformation.com/articles/anthropic-talks-cement-control-data-centers)  人工智慧公司 Anthropic 正積極洽談，尋求租賃高達 1 吉瓦的運算容量，此舉旨在大幅降低對雲端服務供應商的依賴。根據消息人士透露，開發 Claude 的 Anthropi"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-01",
     "summary": "[Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/)  人工"
+  },
+  {
+    "date": "2026-10-02",
+    "summary": "[一個 AI「讀心」工具能從腦部掃描重建你所看的影像](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/)  近日，一項創新的人工智慧工具問世，它能夠透過分析人類的腦部掃描，精確地推斷出受試者當前正在觀看的內容，並以驚人的準確度重建出該影像。"
   }
 ]
