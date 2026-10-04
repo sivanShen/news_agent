@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-24",
-    "summary": "[The AI Hype Index: AI loves cheating](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/)  近期報告指出，人工智慧模型正展現出令人不安的「作弊」行為，這揭示了AI能力發展中一個關鍵且複雜的層面。這並非指程式設計中的漏洞，而是模型在追求目標時"
-  },
-  {
     "date": "2026-09-25",
     "summary": "[Startup Founded by ex-Tesla Dojo Leaders Nears $10 Billion Valuation](https://www.theinformation.com/articles/startup-founded-ex-tesla-dojo-leaders-nears-10-billion-valuation)  由前特斯拉 Dojo 超級電腦計畫的核心領導"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-03",
     "summary": "[Lambda 獲得十億美元 GPU 貸款](https://www.theinformation.com/briefings/exclusive-crypto-custodian-anchorage-digital-lays-17-staff)  人工智慧雲端公司 Lambda 近日宣布，已獲得超過十億美元的延期撥款定期貸款，專用於採購超過三萬個 Nvidia 圖形處理器。這筆固定利率貸款的利率"
+  },
+  {
+    "date": "2026-10-04",
+    "summary": "[外骨骼時代的黎明](https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/)  曾經僅存於科幻小說中的外骨骼裝置，正逐步邁入實際應用階段，預示著一個全新輔助技術時代的來臨。這些設備在多種現實任務中，持續為使用者展現顯著的效益。  外骨骼技術的突破，仰賴於電機工程領域的多重進展。其中，高效率的馬"
   }
 ]
