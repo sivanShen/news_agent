@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-27",
-    "summary": "[Tesla大型電動卡車面臨更嚴峻的基礎設施挑戰](https://arstechnica.com/cars/2026/09/26/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/)  隨著特斯拉推出續航里程達500英里的電動卡車Semi，其在商業運輸領域的應用前景令人期待。然而，這款巨型電動車輛的登場"
-  },
-  {
     "date": "2026-09-28",
     "summary": "[China Weighs Allowing Purchases of New Nvidia Chips by ByteDance, Alibaba](https://www.theinformation.com/articles/china-weighs-allowing-purchases-new-nvidia-chips-bytedance-alibaba)  中國政府已釋出訊號，正考慮允許"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-06",
     "summary": "[MCP：一個您可能聞所未聞卻潛藏風險的代理間通訊協議](https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/)  近日，一項針對新興的 Multi-Agent Communication Protocol (MC"
+  },
+  {
+    "date": "2026-10-07",
+    "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 近日宣布推出 Rubin CPX，這是一款專為優化"
   }
 ]
