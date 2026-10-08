@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-28",
-    "summary": "[China Weighs Allowing Purchases of New Nvidia Chips by ByteDance, Alibaba](https://www.theinformation.com/articles/china-weighs-allowing-purchases-new-nvidia-chips-bytedance-alibaba)  中國政府已釋出訊號，正考慮允許"
-  },
-  {
     "date": "2026-09-29",
     "summary": "[xAI 的 Colossus 2 – 全球首座吉瓦級資料中心、獨特強化學習方法論及資金募集](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI 正在推進其 Colossus 計畫，目標是打造全球首座達到吉瓦級（1吉瓦）運算容量的資料中心，命名為 Colossus 2。此計畫預示"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-07",
     "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 近日宣布推出 Rubin CPX，這是一款專為優化"
+  },
+  {
+    "date": "2026-10-08",
+    "summary": "[Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/)  微軟近期發布了其全新系列的 AI 個人電腦，包括 Su"
   }
 ]
