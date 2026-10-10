@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-30",
-    "summary": "[Huawei Ascend 生產加速：晶圓儲備、台積電持續生產與 HBM 瓶頸](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  人工智慧的發展核心繫於強大的運算能力，當前科技界普遍認為，誰掌握了運算資源，誰就能主導 AI 時代的進程。在這一背景下，華為的昇騰（Ascend）系列 AI 晶片正經歷顯著的生產"
-  },
-  {
     "date": "2026-10-01",
     "summary": "[Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/)  人工"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-09",
     "summary": "[Networking Startup Eliyan Draws Takeover Interest, Held Early Talks With Arm](https://www.theinformation.com/articles/networking-startup-eliyan-draws-takeover-interest-held-early-talks-arm)  半導體產業的併購"
+  },
+  {
+    "date": "2026-10-10",
+    "summary": "[xAI 的 Colossus 2：全球首座吉瓦級資料中心、獨特的強化學習方法與資金籌措](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI 近日揭露其 Colossus 2 計畫，旨在打造全球首座達到吉瓦（Gigawatt）級功率的資料中心，以支持其新一代大型 AI 模型的訓練"
   }
 ]
