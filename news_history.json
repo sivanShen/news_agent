@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "summary": "[Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/)  人工"
-  },
-  {
     "date": "2026-10-02",
     "summary": "[一個 AI「讀心」工具能從腦部掃描重建你所看的影像](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/)  近日，一項創新的人工智慧工具問世，它能夠透過分析人類的腦部掃描，精確地推斷出受試者當前正在觀看的內容，並以驚人的準確度重建出該影像。"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-10",
     "summary": "[xAI 的 Colossus 2：全球首座吉瓦級資料中心、獨特的強化學習方法與資金籌措](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI 近日揭露其 Colossus 2 計畫，旨在打造全球首座達到吉瓦（Gigawatt）級功率的資料中心，以支持其新一代大型 AI 模型的訓練"
+  },
+  {
+    "date": "2026-10-11",
+    "summary": "[Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  計算能力被視為 AI 的命脈，掌握計算能力將能主導 AI 代幣的生產並從中獲"
   }
 ]
