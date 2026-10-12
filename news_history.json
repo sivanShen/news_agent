@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-10-02",
-    "summary": "[一個 AI「讀心」工具能從腦部掃描重建你所看的影像](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/)  近日，一項創新的人工智慧工具問世，它能夠透過分析人類的腦部掃描，精確地推斷出受試者當前正在觀看的內容，並以驚人的準確度重建出該影像。"
-  },
-  {
     "date": "2026-10-03",
     "summary": "[Lambda 獲得十億美元 GPU 貸款](https://www.theinformation.com/briefings/exclusive-crypto-custodian-anchorage-digital-lays-17-staff)  人工智慧雲端公司 Lambda 近日宣布，已獲得超過十億美元的延期撥款定期貸款，專用於採購超過三萬個 Nvidia 圖形處理器。這筆固定利率貸款的利率"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-11",
     "summary": "[Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  計算能力被視為 AI 的命脈，掌握計算能力將能主導 AI 代幣的生產並從中獲"
+  },
+  {
+    "date": "2026-10-12",
+    "summary": "[未來的職位：送貨無人機空中交通管制員](https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/)  隨著無人機送貨服務日益普及，一項新興的專業職位「遠端飛行指揮員」（RPIC）正浮出水面，預示著電機工程在自動化與"
   }
 ]
