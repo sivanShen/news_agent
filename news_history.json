@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-10-05",
-    "summary": "[Redefining enterprise intelligence with autonomous AI](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/)  企業級人工智慧已不再是遙遠的願景，而是全面進入實際運作階段。模型能力正"
-  },
-  {
     "date": "2026-10-06",
     "summary": "[MCP：一個您可能聞所未聞卻潛藏風險的代理間通訊協議](https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/)  近日，一項針對新興的 Multi-Agent Communication Protocol (MC"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-14",
     "summary": "[Science Corporation 為史塔加氏病患者植入視力恢復晶片](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)  由 Neuralink 前總裁兼共同創辦人 Max Hoda"
+  },
+  {
+    "date": "2026-10-15",
+    "summary": "[Ricursive Intelligence 押注 AI 設計晶片以解決運算危機](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/)  Ricursive Intelligence 這家新創公司正投入"
   }
 ]
