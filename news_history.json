@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-10-08",
-    "summary": "[Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/)  微軟近期發布了其全新系列的 AI 個人電腦，包括 Su"
-  },
-  {
     "date": "2026-10-09",
     "summary": "[Networking Startup Eliyan Draws Takeover Interest, Held Early Talks With Arm](https://www.theinformation.com/articles/networking-startup-eliyan-draws-takeover-interest-held-early-talks-arm)  半導體產業的併購"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-17",
     "summary": "[An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasn’t-hit-its-chatgpt-moment-yet/)  一位曾任 NVIDI"
+  },
+  {
+    "date": "2026-10-18",
+    "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 近日發布了全新的 Rubin CPX 專業加速器與"
   }
 ]
