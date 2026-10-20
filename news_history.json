@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-10-10",
-    "summary": "[xAI 的 Colossus 2：全球首座吉瓦級資料中心、獨特的強化學習方法與資金籌措](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI 近日揭露其 Colossus 2 計畫，旨在打造全球首座達到吉瓦（Gigawatt）級功率的資料中心，以支持其新一代大型 AI 模型的訓練"
-  },
-  {
     "date": "2026-10-11",
     "summary": "[Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  計算能力被視為 AI 的命脈，掌握計算能力將能主導 AI 代幣的生產並從中獲"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-19",
     "summary": "[This implant can restore sight for patients with macular degeneration](https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/)  全球有超過五百萬人罹患晚期黃"
+  },
+  {
+    "date": "2026-10-20",
+    "summary": "[“我們一直都看錯了”：顛覆 AI 世界的爆炸性主張](https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/)  AI 新創公司 Goodfire 的研究員 Nick Cammarata 近日發表了"
   }
 ]
