@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-10-11",
-    "summary": "[Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  計算能力被視為 AI 的命脈，掌握計算能力將能主導 AI 代幣的生產並從中獲"
-  },
-  {
     "date": "2026-10-12",
     "summary": "[未來的職位：送貨無人機空中交通管制員](https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/)  隨著無人機送貨服務日益普及，一項新興的專業職位「遠端飛行指揮員」（RPIC）正浮出水面，預示著電機工程在自動化與"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-20",
     "summary": "[“我們一直都看錯了”：顛覆 AI 世界的爆炸性主張](https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/)  AI 新創公司 Goodfire 的研究員 Nick Cammarata 近日發表了"
+  },
+  {
+    "date": "2026-10-21",
+    "summary": "[xAI 的 Colossus 2：全球首座十億瓦數據中心、獨特強化學習方法與資本募集](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI 正積極推進其「Colossus 2」數據中心的建設，目標是打造全球首座供電能力達到十億瓦（Gigawatt）等級的數據中心。這項規模空前的工"
   }
 ]
