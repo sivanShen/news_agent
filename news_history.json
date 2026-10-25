@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-10-15",
-    "summary": "[Ricursive Intelligence 押注 AI 設計晶片以解決運算危機](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/)  Ricursive Intelligence 這家新創公司正投入"
-  },
-  {
     "date": "2026-10-16",
     "summary": "[Meta 在 Mac 上推出可本地運行的開源 AI 模型](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/)  Meta 近日與 Apple 合作，共同發布了其最新的開源 AI 模型 Muse Spark Open，該模型具備在 Apple 晶片上本地運行的能力。此舉標"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-24",
     "summary": "[Designing an AI serving harness built to last](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/)  在企業級AI的發展中，新的競爭優勢已不再僅限於選擇哪種模型，而是更多地取決於模型周邊所建立的基礎設施。"
+  },
+  {
+    "date": "2026-10-25",
+    "summary": "[Block 的新語音模型聲音極其逼真](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)  Block 近日推出了一款全新的語音模型，其聲音表現達到了令人驚訝的逼真程度。該模型能夠生成聽起來極其自然的語音，使人難以分辨是真人發聲還是 AI 合成。  這項技術的突破不僅體現在語音的自然度上，"
   }
 ]
