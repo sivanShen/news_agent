@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-10-17",
-    "summary": "[An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasn’t-hit-its-chatgpt-moment-yet/)  一位曾任 NVIDI"
-  },
-  {
     "date": "2026-10-18",
     "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 近日發布了全新的 Rubin CPX 專業加速器與"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-26",
     "summary": "[Data Center Late Fees Hit $5 Million or More Per Day, Spawning New Insurance](https://www.theinformation.com/articles/data-center-late-fees-hit-5-million-per-day-spawning-new-insurance)  大型資料中心的建設正以前"
+  },
+  {
+    "date": "2026-10-27",
+    "summary": "[Anthropic, SpaceX and Meta Cash Grabs](https://www.theinformation.com/articles/anthropic-spacex-meta-cash-grabs)  人工智慧產業正掀起一場史無前例的資金競賽，主要巨頭紛紛投入巨額資金，試圖主導這場科技變革。Anthropic、SpaceX 和 Meta Platforms 近日相繼公布"
   }
 ]
