@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-10-21",
-    "summary": "[xAI 的 Colossus 2：全球首座十億瓦數據中心、獨特強化學習方法與資本募集](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  xAI 正積極推進其「Colossus 2」數據中心的建設，目標是打造全球首座供電能力達到十億瓦（Gigawatt）等級的數據中心。這項規模空前的工"
-  },
-  {
     "date": "2026-10-22",
     "summary": "[Nuclear-powered spaceships](https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/)  在 Artemis II 太空船完成繞月飛行後不久，美國國家航空暨太空總署宣布了一項開創性的計畫：打造太空反應爐一號自由號（SR-1）。這將是史"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-10-30",
     "summary": "[我們迫切需要即時監控 AI 代理的行為](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)  「麻省理工科技評論」近日指出，隨著 AI 代理的自主能力提升，我們迫切需要建立機制來即時監控其行為。今年夏天發生的一系列事件，突顯了這項需求的急迫性。例如，數百個 OpenA"
+  },
+  {
+    "date": "2026-10-31",
+    "summary": "[Once again, NASA is asking for ideas to rescue Hubble from certain death](https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/)  美國國家航空暨太空總署（NASA）近日"
   }
 ]
