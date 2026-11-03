@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-10-24",
-    "summary": "[Designing an AI serving harness built to last](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/)  在企業級AI的發展中，新的競爭優勢已不再僅限於選擇哪種模型，而是更多地取決於模型周邊所建立的基礎設施。"
-  },
-  {
     "date": "2026-10-25",
     "summary": "[Block 的新語音模型聲音極其逼真](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)  Block 近日推出了一款全新的語音模型，其聲音表現達到了令人驚訝的逼真程度。該模型能夠生成聽起來極其自然的語音，使人難以分辨是真人發聲還是 AI 合成。  這項技術的突破不僅體現在語音的自然度上，"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-11-02",
     "summary": "[OpenAI 考慮將其資料中心重新命名為「AI 運算園區」](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)  隨著傳統資料中心因其能源消耗和環境足跡而面臨日益增加的負面觀感，OpenAI 正考慮將其用於 AI 運算的資料中心設施，重新命名為「AI 運"
+  },
+  {
+    "date": "2026-11-03",
+    "summary": "[華為昇騰產能提升：晶圓儲備、台積電持續生產與 HBM 瓶頸](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  算力被視為人工智慧的命脈，掌握算力即掌握AI發展的主導權與潛在收益。這項認知推動了美國科技界將算力與AI視為下一代技術平台的核心。  根據最新報導，華為的昇騰系列晶片正經歷顯著的產能提升。台積電作為"
   }
 ]
