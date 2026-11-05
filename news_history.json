@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-10-26",
-    "summary": "[Data Center Late Fees Hit $5 Million or More Per Day, Spawning New Insurance](https://www.theinformation.com/articles/data-center-late-fees-hit-5-million-per-day-spawning-new-insurance)  大型資料中心的建設正以前"
-  },
-  {
     "date": "2026-10-27",
     "summary": "[Anthropic, SpaceX and Meta Cash Grabs](https://www.theinformation.com/articles/anthropic-spacex-meta-cash-grabs)  人工智慧產業正掀起一場史無前例的資金競賽，主要巨頭紛紛投入巨額資金，試圖主導這場科技變革。Anthropic、SpaceX 和 Meta Platforms 近日相繼公布"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-11-04",
     "summary": "[Data centers are turning to old jet engines as the wait for power grows](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/)  隨著全球對人工智慧運算能力的爆炸性"
+  },
+  {
+    "date": "2026-11-05",
+    "summary": "[德州曾是AI資料中心擴建的震央，如今可能告吹](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)  「麻省理工科技評論」近日指出，德州作為美國成長最快的資料中心市場，同時也是許多大型"
   }
 ]
