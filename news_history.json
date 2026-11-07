@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-10-28",
-    "summary": "[How solid-state transformers could help power the AI boom](https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/)  變壓器是電網中一個關鍵卻常被忽視的環節，它們在長距離電力傳輸中扮演著高效的角色。然而，這些設備設計複雜且供應短缺。更重要"
-  },
-  {
     "date": "2026-10-29",
     "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 近日發布了 Rubin CPX 加速器，這是一款專"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-11-06",
     "summary": "[Blue Origin 聲稱正以四分之一的成本打造更高性能的火箭引擎](https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/)  Blue Origin 近日宣布其在火箭引擎技術上取得重大進展，目標是以四分之一的成本實現更"
+  },
+  {
+    "date": "2026-11-07",
+    "summary": "[Crusoe 將遭遇困境的懷俄明州資料中心計畫出售給 Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)  此交易凸顯了開發大型 AI 資料中心所面臨的嚴峻挑戰。近日，Crusoe 公司將其在懷俄明州一個遭遇困境的資料中心計畫出售給了 Goo"
   }
 ]
