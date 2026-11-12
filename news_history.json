@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-11-02",
-    "summary": "[OpenAI 考慮將其資料中心重新命名為「AI 運算園區」](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)  隨著傳統資料中心因其能源消耗和環境足跡而面臨日益增加的負面觀感，OpenAI 正考慮將其用於 AI 運算的資料中心設施，重新命名為「AI 運"
-  },
-  {
     "date": "2026-11-03",
     "summary": "[華為昇騰產能提升：晶圓儲備、台積電持續生產與 HBM 瓶頸](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  算力被視為人工智慧的命脈，掌握算力即掌握AI發展的主導權與潛在收益。這項認知推動了美國科技界將算力與AI視為下一代技術平台的核心。  根據最新報導，華為的昇騰系列晶片正經歷顯著的產能提升。台積電作為"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-11-11",
     "summary": "[Ring 攝影機走向行動化，亞馬遜推出 AI 驅動的保全無人機與機器人](https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/)  亞馬遜近日預告，將於 2026 年底至 2027 年初推出其搭載 AI 技術的 Ring Rob"
+  },
+  {
+    "date": "2026-11-12",
+    "summary": "[xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  根據報導，xAI 正在打造名為「Colos"
   }
 ]
