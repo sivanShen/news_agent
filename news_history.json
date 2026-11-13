@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-11-03",
-    "summary": "[華為昇騰產能提升：晶圓儲備、台積電持續生產與 HBM 瓶頸](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  算力被視為人工智慧的命脈，掌握算力即掌握AI發展的主導權與潛在收益。這項認知推動了美國科技界將算力與AI視為下一代技術平台的核心。  根據最新報導，華為的昇騰系列晶片正經歷顯著的產能提升。台積電作為"
-  },
-  {
     "date": "2026-11-04",
     "summary": "[Data centers are turning to old jet engines as the wait for power grows](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/)  隨著全球對人工智慧運算能力的爆炸性"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-11-12",
     "summary": "[xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise](https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/)  根據報導，xAI 正在打造名為「Colos"
+  },
+  {
+    "date": "2026-11-13",
+    "summary": "[Nvidia 私下證實可追蹤晶片以打擊走私，儘管產業公開質疑其可行性](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/)  近日，Nvidia 向伊利諾州眾議員 Bill Foster 私下證實，實施《晶片安全法案》中要求防止走私的措施，在技術上是可行的。這一消息由 Foster 議員在接受麻省理"
   }
 ]
