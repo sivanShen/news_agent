@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-11-04",
-    "summary": "[Data centers are turning to old jet engines as the wait for power grows](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/)  隨著全球對人工智慧運算能力的爆炸性"
-  },
-  {
     "date": "2026-11-05",
     "summary": "[德州曾是AI資料中心擴建的震央，如今可能告吹](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)  「麻省理工科技評論」近日指出，德州作為美國成長最快的資料中心市場，同時也是許多大型"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-11-13",
     "summary": "[Nvidia 私下證實可追蹤晶片以打擊走私，儘管產業公開質疑其可行性](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/)  近日，Nvidia 向伊利諾州眾議員 Bill Foster 私下證實，實施《晶片安全法案》中要求防止走私的措施，在技術上是可行的。這一消息由 Foster 議員在接受麻省理"
+  },
+  {
+    "date": "2026-11-14",
+    "summary": "[More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-i"
   }
 ]
