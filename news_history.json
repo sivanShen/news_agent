@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-11-07",
-    "summary": "[Crusoe 將遭遇困境的懷俄明州資料中心計畫出售給 Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)  此交易凸顯了開發大型 AI 資料中心所面臨的嚴峻挑戰。近日，Crusoe 公司將其在懷俄明州一個遭遇困境的資料中心計畫出售給了 Goo"
-  },
-  {
     "date": "2026-11-08",
     "summary": "[I watched a humanoid robot clean my apartment. It felt like a taste of the future.](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-ta"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-11-16",
     "summary": "[Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-s"
+  },
+  {
+    "date": "2026-11-17",
+    "summary": "[Hyperscale 資料中心耗電量佔美國總電力的 2%](https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/)  一份近期發表的研究報告指出，承載著全球 AI 與雲端運算負載的超大規模資料中心，其總耗電量已達到美國全國電力供應的 2%。這項研究致力於精確統計這些巨型設施"
   }
 ]
