@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-11-08",
-    "summary": "[I watched a humanoid robot clean my apartment. It felt like a taste of the future.](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-ta"
-  },
-  {
     "date": "2026-11-09",
     "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  NVIDIA 近日發布了 Rubin CPX，這是一款專為 AI"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-11-17",
     "summary": "[Hyperscale 資料中心耗電量佔美國總電力的 2%](https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/)  一份近期發表的研究報告指出，承載著全球 AI 與雲端運算負載的超大規模資料中心，其總耗電量已達到美國全國電力供應的 2%。這項研究致力於精確統計這些巨型設施"
+  },
+  {
+    "date": "2026-11-18",
+    "summary": "[Nvidia is abandoning China after Jensen Huang’s ouster](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/)  Nvidia 臨時執行長近日表示，公司將停止向中國銷售晶片。這一決定是繼創辦人兼前執行長黃仁勳離職後，公"
   }
 ]
