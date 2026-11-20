@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-11-10",
-    "summary": "[The backlash about data centers might really just be about electricity](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)  「"
-  },
-  {
     "date": "2026-11-11",
     "summary": "[Ring 攝影機走向行動化，亞馬遜推出 AI 驅動的保全無人機與機器人](https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/)  亞馬遜近日預告，將於 2026 年底至 2027 年初推出其搭載 AI 技術的 Ring Rob"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-11-19",
     "summary": "[This smell startup says its AI nose is as good as a human’s](https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/)  一家名為 Osmo 的新創公司，正致力於開發全球首個基於 AI 的「嗅覺基礎模型」"
+  },
+  {
+    "date": "2026-11-20",
+    "summary": "[Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack](https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/)  Nvidia 近日發布了 Rubin CPX 解決方案，這是一款"
   }
 ]
