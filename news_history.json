@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-11-16",
-    "summary": "[Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-s"
-  },
-  {
     "date": "2026-11-17",
     "summary": "[Hyperscale 資料中心耗電量佔美國總電力的 2%](https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/)  一份近期發表的研究報告指出，承載著全球 AI 與雲端運算負載的超大規模資料中心，其總耗電量已達到美國全國電力供應的 2%。這項研究致力於精確統計這些巨型設施"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-11-25",
     "summary": "[Data centers are getting their own natural gas power plants](https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/)  資料中心營運的一大挑戰是取得電網連接許可，等待時間可能長達十年。為加速因應 AI 運算需求的爆炸性增長，部分開發商正"
+  },
+  {
+    "date": "2026-11-26",
+    "summary": "[Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  AI 運算正日益成為科技發展的核心動力。近期市場動態顯示，華為在提升其昇騰系"
   }
 ]
