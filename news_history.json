@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-11-17",
-    "summary": "[Hyperscale 資料中心耗電量佔美國總電力的 2%](https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/)  一份近期發表的研究報告指出，承載著全球 AI 與雲端運算負載的超大規模資料中心，其總耗電量已達到美國全國電力供應的 2%。這項研究致力於精確統計這些巨型設施"
-  },
-  {
     "date": "2026-11-18",
     "summary": "[Nvidia is abandoning China after Jensen Huang’s ouster](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/)  Nvidia 臨時執行長近日表示，公司將停止向中國銷售晶片。這一決定是繼創辦人兼前執行長黃仁勳離職後，公"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-11-26",
     "summary": "[Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck](https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/)  AI 運算正日益成為科技發展的核心動力。近期市場動態顯示，華為在提升其昇騰系"
+  },
+  {
+    "date": "2026-11-27",
+    "summary": "[The next generation of bionic hands is here—and they can feel](https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/)  新一代仿生手技術取得了突破性進展，能夠"
   }
 ]
