@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-11-18",
-    "summary": "[Nvidia is abandoning China after Jensen Huang’s ouster](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/)  Nvidia 臨時執行長近日表示，公司將停止向中國銷售晶片。這一決定是繼創辦人兼前執行長黃仁勳離職後，公"
-  },
-  {
     "date": "2026-11-19",
     "summary": "[This smell startup says its AI nose is as good as a human’s](https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/)  一家名為 Osmo 的新創公司，正致力於開發全球首個基於 AI 的「嗅覺基礎模型」"
   },
@@ -38,5 +34,9 @@
   {
     "date": "2026-11-27",
     "summary": "[The next generation of bionic hands is here—and they can feel](https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/)  新一代仿生手技術取得了突破性進展，能夠"
+  },
+  {
+    "date": "2026-11-28",
+    "summary": "[駭客成功入侵美國空軍雲端平台，最新高知名度網路攻擊事件](https://www.theinformation.com/briefings/hackers-breach-u-s-air-force-cloud-latest-high-profile-cyberattack)  美國空軍近期發現，其內部雲端運算平台 Cloud One 遭到網路攻擊者入侵。此平台主要用於運行管理彈藥和防空雷達等關鍵"
   }
 ]
